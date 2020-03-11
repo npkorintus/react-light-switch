@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-light-switch/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-light-switch/static/js/main.ae4a0b8a.chunk.js",
+    "main.js.map": "/react-light-switch/static/js/main.ae4a0b8a.chunk.js.map",
+    "runtime-main.js": "/react-light-switch/static/js/runtime-main.e61d32ed.js",
+    "runtime-main.js.map": "/react-light-switch/static/js/runtime-main.e61d32ed.js.map",
+    "static/js/2.409d825a.chunk.js": "/react-light-switch/static/js/2.409d825a.chunk.js",
+    "static/js/2.409d825a.chunk.js.map": "/react-light-switch/static/js/2.409d825a.chunk.js.map",
+    "index.html": "/react-light-switch/index.html",
+    "precache-manifest.396a7959f44f30e00daae9db4679fa91.js": "/react-light-switch/precache-manifest.396a7959f44f30e00daae9db4679fa91.js",
+    "service-worker.js": "/react-light-switch/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-light-switch/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.409d825a.chunk.js.LICENSE.txt": "/react-light-switch/static/js/2.409d825a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-light-switch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61d32ed.js",
+    "static/js/2.409d825a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ae4a0b8a.chunk.js"
+  ]
+}
